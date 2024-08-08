@@ -1,3 +1,4 @@
+#enter times frames as military times
 class Timeframe:
     def __init__(self, start_time, end_time):
         self.start_time = start_time
